@@ -1,4 +1,4 @@
-# Access Control Risk Assessment (NIST 800-53 AC-6)
+# Enterprise Risk Assessment – (NIST 800-53 Based Analysis)
 
 ## 📌 Overview
 This project presents a simulated **Access Controls Risk Assessment** focused on the **Principle of Least Privilege (AC-6)** from the NIST 800-53 framework.
