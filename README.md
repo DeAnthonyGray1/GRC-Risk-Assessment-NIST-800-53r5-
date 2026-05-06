@@ -1,7 +1,7 @@
 # Enterprise Risk Assessment – (NIST 800-53 Based Analysis)
 
 ## 📌 Overview
-This project presents a simulated **Access Controls Risk Assessment** focused on the **Principle of Least Privilege (AC-6)** from the NIST 800-53 framework.
+This project presents an **Access Controls Risk Assessment** focused on the **Principle of Least Privilege (AC-6)** in a simulated enterprise environment based on the NIST 800-53 framework.
 
 The assessment was conducted through structured interviews with organizational stakeholders to evaluate how access control policies are implemented, enforced, and monitored within a cloud-based environment (Microsoft Azure AD).
 
@@ -103,7 +103,7 @@ The assessment was conducted through structured interviews with organizational s
 ---
 
 ## 💡 Scenario Context
-This project simulates a **mid-sized enterprise operating in a cloud-based Azure environment**, assessing risks related to identity and access management practices.
+This project simulates a **mid-sized financial organization in a cloud-based Azure environment**, assessing risks related to identity and access management practices.
 
 ---
 
