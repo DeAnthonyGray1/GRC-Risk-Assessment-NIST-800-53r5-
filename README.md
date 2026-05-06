@@ -1,7 +1,7 @@
 # Enterprise Risk Assessment – (NIST 800-53 Based Analysis)
 
 ## 📌 Overview
-This project presents an **Access Controls Risk Assessment** focused on the **Principle of Least Privilege (AC-6)** in a simulated enterprise environment based on the NIST 800-53 framework.
+This project presents an **Access Controls Risk Assessment** focused on the **Principle of Least Privilege (AC-6)** in a simulated enterprise environment (DWFinancial LLC) based on the NIST 800-53 framework.
 
 The assessment was conducted through structured interviews with organizational stakeholders to evaluate how access control policies are implemented, enforced, and monitored within a cloud-based environment (Microsoft Azure AD).
 
@@ -40,6 +40,8 @@ The assessment was conducted through structured interviews with organizational s
   - Admin users operate with elevated privileges at all times
   - No separation between standard and privileged accounts
   - Increases risk of credential compromise and insider misuse
+    
+<img width="975" height="328" alt="image" src="https://github.com/user-attachments/assets/88a097f2-213e-4502-9ffc-ba6fb99fef34" />
 
 ---
 
@@ -47,6 +49,8 @@ The assessment was conducted through structured interviews with organizational s
 - **Privilege Creep (AC-6(7))**
   - 2 out of 10 users retained admin access after role changes
   - Indicates lack of strict access review enforcement
+
+<img width="975" height="311" alt="image" src="https://github.com/user-attachments/assets/7390ce4e-5b3b-447a-b25c-5294b3b3e22f" />
 
 ---
 
