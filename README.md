@@ -111,10 +111,11 @@ This project simulates a **mid-sized financial organization in a cloud-based Azu
 
 ---
 
-## 📎 Files Included
+## 📎 Project Files Included
+- [Risk Assessment Report](docs/Risk_Assessment_Report.pdf)
+- [Risk Register (Excel)](data/risk_register.xlsx)
 - Interview Notes (Audit Evidence)
-- Risk Assessment Summary
-- Risk Matrix (Excel)
+- Full Risk Assessment Summary
 
 ---
 
